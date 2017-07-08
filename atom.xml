@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://staringorz.github.io/"/>
   <updated>2017-07-08T04:44:43.665Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://staringorz.github.io/</id>
   
   <author>
     <name>残红</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>page</title>
-    <link href="http://yoursite.com/2017/07/08/page/"/>
-    <id>http://yoursite.com/2017/07/08/page/</id>
+    <link href="https://staringorz.github.io/2017/07/08/page/"/>
+    <id>https://staringorz.github.io/2017/07/08/page/</id>
     <published>2017-07-08T04:44:43.000Z</published>
     <updated>2017-07-08T04:44:43.665Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>hello</title>
-    <link href="http://yoursite.com/2017/07/06/hello/"/>
-    <id>http://yoursite.com/2017/07/06/hello/</id>
+    <link href="https://staringorz.github.io/2017/07/06/hello/"/>
+    <id>https://staringorz.github.io/2017/07/06/hello/</id>
     <published>2017-07-06T12:39:43.000Z</published>
     <updated>2017-07-06T12:41:17.060Z</updated>
     
@@ -51,8 +51,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/07/06/hello-world/"/>
-    <id>http://yoursite.com/2017/07/06/hello-world/</id>
+    <link href="https://staringorz.github.io/2017/07/06/hello-world/"/>
+    <id>https://staringorz.github.io/2017/07/06/hello-world/</id>
     <published>2017-07-06T10:48:10.302Z</published>
     <updated>2017-07-07T06:24:10.771Z</updated>
     
